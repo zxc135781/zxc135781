@@ -71,11 +71,15 @@ fun main() {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zxc135781&theme=tokyonight&no-frame=true&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=zxc135781&color=blueviolet&style=for-the-badge)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/zxc135781?style=for-the-badge&logo=github&color=blueviolet)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/zxc135781?style=for-the-badge&logo=github&color=blueviolet)
 
 </div>
 
