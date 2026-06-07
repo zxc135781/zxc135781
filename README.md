@@ -58,14 +58,14 @@ fun main() {
 <div align="center">
 
 <!-- 动态统计卡片 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxc135781&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-one-olive.vercel.app/api?username=zxc135781&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxc135781&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-one-olive.vercel.app/api/top-langs/?username=zxc135781&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=zxc135781&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zxc135781&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -75,7 +75,7 @@ fun main() {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zxc135781&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zxc135781&theme=tokyonight&no-frame=true&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -83,7 +83,7 @@ fun main() {
 
 ## 📈 Contribution Graph
 
-[![zxc135781's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zxc135781&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![zxc135781's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zxc135781&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -91,7 +91,7 @@ fun main() {
 
 ### 💬 Random Dev Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
