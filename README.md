@@ -1,24 +1,100 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**zxc135781/zxc135781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm <span style="color:#58A6FF">zxc135781</span> 👋
 
-Here are some ideas to get you started:
+**`Full-Stack Developer`** | **`Android Developer`** | **`DevOps Enthusiast`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
-![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
-![](https://img.shields.io/badge/-PHP-525d94?style=flat-square&logo=PHP&logoColor=fff)
-![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
+<br/>
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Turning+ideas+into+code+%F0%9F%92%A1;Building+robust+backends+%F0%9F%8F%97%EF%B8%8F;Crafting+Android+apps+%F0%9F%93%B1)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```kotlin
+fun main() {
+    val developer = Developer(
+        name       = "zxc135781",
+        role       = "Full-Stack Developer",
+        languages  = listOf("Kotlin", "Java", "PHP", "TypeScript"),
+        platforms  = listOf("Android", "Linux", "Windows"),
+        tools      = listOf("Docker", "Git", "IntelliJ IDEA"),
+        passions   = listOf("Open Source", "Clean Architecture", "Performance Optimization")
+    )
+
+    developer.code()
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- 动态统计卡片 -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxc135781&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxc135781&layout=compact&theme=radical&hide_border=true"/>
+
+<br/>
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=zxc135781&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zxc135781&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![zxc135781's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zxc135781&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
+**⭐ From [zxc135781](https://github.com/zxc135781)**
+
+</div>
